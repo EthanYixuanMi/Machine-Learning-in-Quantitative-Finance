@@ -60,4 +60,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 For any questions or inquiries, please contact the project maintainer:
 
-- Yixuan Mi: [miy@kean.edu]
+- Yixuan Mi: [yixuanmi25@gmail.com]
